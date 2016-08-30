@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C69780C2-4B11-6197-F5DF-52BD85BB5614}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TheMachinesMap",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
